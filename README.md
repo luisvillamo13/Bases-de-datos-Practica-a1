@@ -2,7 +2,7 @@
 
 **Alumno:** José Luis Villanueva Morales
 **Boleta:** 2024630016
-**Grupo:** _(completa tu grupo, p. ej. 3CM4)_
+**Grupo:** _(3cv2)_
 **Carrera:** Ingeniería en Sistemas Computacionales
 **Unidad de aprendizaje:** Bases de Datos — ESCOM, IPN
 
