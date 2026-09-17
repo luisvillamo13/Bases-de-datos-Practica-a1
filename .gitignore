@@ -1,0 +1,20 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.env
+.env.local
+
+# Datos locales de Postgres si se montan como carpeta en vez de volumen nombrado
+pgdata/
+postgres-data/
+
+# Archivos temporales
+*.log
+*.tmp
